@@ -1,0 +1,30 @@
+Calculate Big O Worst Case Run Time Analysis
+
+
+Task 0:
+Worst Case Big-O Notation is : O(1)
+There are loops or inputs to go through.
+
+
+Task 1:
+Worst Case Big-O Notation is : O(n)
+We accessed sequentially both files for two columns
+
+
+Task 2:
+Worst Case Big-O Notation is : O(n)
+only the first n is dependent on input size. Total operations outside the loop: 3. Operations inside the loop: 5. 
+Thus O(1n + 8) or simply O(n).
+
+
+Task 3:
+Worst Case Big-O Notation is : O(n log n)
+This happened because we need to do work of size 𝑂(𝑙𝑜𝑔(𝑛)) for every record (when there’s 𝑛 of them).
+An algorithm is said to have a quasilinear time complexity when each operation in the input data have a logarithm time complexity. 
+It is commonly happens in sorting algorithms
+
+
+Task 4:
+Worst Case Big-O Notation is : O(n log n)
+An algorithm is said to have a quasilinear time complexity when each operation in the input data have a logarithm time complexity. 
+It is commonly happens in sorting algorithms
