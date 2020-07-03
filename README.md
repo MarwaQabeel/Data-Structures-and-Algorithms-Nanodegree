@@ -12,6 +12,5 @@ Course 4: Advanced Algorithms
 ## Data Structures and Algorithms Nanodegree Certificate
 
 <p align="center">
-  <img width="779" height="600" src="![certificate_download-1](https://user-images.githubusercontent.com/33187812/86485124-327c4c80-bd58-11ea-9e8c-cb5bed1969d0.jpg)
-">
+ ![certificate_download-1](https://user-images.githubusercontent.com/33187812/86485124-327c4c80-bd58-11ea-9e8c-cb5bed1969d0.jp)
 </p>
